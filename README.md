@@ -1,3 +1,49 @@
+##Project Description
+
+This project is a simple React Show/Hide Application that demonstrates how to use state management and event handling in React class components. The application contains two buttons that allow users to toggle the visibility of a first name and last name.
+
+When the user clicks Show/Hide Firstname, the first name appears or disappears. Similarly, clicking Show/Hide Lastname toggles the visibility of the last name. This project helps beginners understand how React handles component state, conditional rendering, and button click events.
+
+##Features
+
+Show and hide First Name using a button
+
+Show and hide Last Name using a button
+
+Uses React Class Components
+
+Implements React state management with setState()
+
+Demonstrates conditional rendering in React
+
+Simple and clean UI structure
+
+##Technologies Used
+
+React JS
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3 
+
+##Installation Steps
+
+1. Clone the repository git clone https://github.com/PANJAMYNASAIRAM/show-hidename.git
+2. Go to project folder "cd show-hidename"
+3. Install dependencies "npm install"
+4. Start the project "npm start"
+
+##Live Demo
+
+https://PANJAMYNASAIRAM.github.io/show-hidename 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
