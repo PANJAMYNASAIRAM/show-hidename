@@ -1,0 +1,74 @@
+.container {
+  background-color: #fa7257;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.containertwo {
+  display: flex;
+  flex-direction: row;
+}
+
+.head {
+  color: white;
+  font-size: 60px;
+  font-family: Roboto;
+}
+
+.divone {
+  margin: 60px;
+  text-align: center;
+}
+
+.divtwo {
+  margin: 60px;
+  text-align: center;
+}
+
+.butone {
+  height: 40px;
+  width: 180px;
+  border-radius: 10px;
+}
+
+.buttwo {
+  height: 40px;
+  width: 180px;
+  border-radius: 10px;
+}
+
+.contone {
+  width: 300px;
+  background-color: #fddddb;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.conttwo {
+  width: 300px;
+  background-color: #fddddb;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.paraone {
+  font-size: 40px;
+}
+
+.paratwo {
+  font-size: 40px;
+}
