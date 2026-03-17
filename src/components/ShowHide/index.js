@@ -17,13 +17,13 @@ class Fullname extends Component {
 
     const hideone = conditionone ? (
       <div className="contone">
-        <p className="paraone">Joe</p>
+        <p className="paraone">Kashireddy</p>
       </div>
     ) : null
 
     const hidetwo = conditiontwo ? (
       <div className="conttwo">
-        <p className="paratwo">Jonas</p>
+        <p className="paratwo">VijendraReddy</p>
       </div>
     ) : null
 
